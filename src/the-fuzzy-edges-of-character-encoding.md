@@ -10,7 +10,7 @@
 > 2026-01-02
 
 - Computers can be seen as layers of technology, with increasing complexity and abstraction as they go up. Programming can happen at different layers.
-- Merely doing AND/OR operations inside of a logic gate is technically coding
-- A language is independent from the circuit of machine, and is automatically translate to lower level instructions by a compiler which most programmers don't interact directly.
+- Merely doing AND/OR operations inside of a logic gate is technically coding.
+- A language is independent from the circuit of the machine, and is automatically translated to lower level instructions by a compiler which most programmers don't interact directly.
 - To do this, computers assign sequences of binary code to characters.
 - To computer, textual data is also numerical data.
