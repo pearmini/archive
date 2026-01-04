@@ -9,6 +9,7 @@ Bairui Su's personal archive
 ## Readings
 
 - [The fuzzy edges of character encoding](./the-fuzzy-edges-of-character-encoding)
+- [Data Humanism, the Revolution will be Visualized.](./data-humanism-the-revolution-will-be-visualized)
 
 ## Videos
 
