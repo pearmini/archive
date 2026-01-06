@@ -15,3 +15,4 @@ Bairui Su's personal archive
 
 - [Abacus Tutorial: 1 Basic function](https://www.youtube.com/watch?v=FTVXUG_PngE&t=15s)
 - [Marble adding machine](https://www.youtube.com/watch?v=GcDshWmhF4A)
+- [The magic of Fibonacci numbers | Arthur Benjamin | TED](https://www.youtube.com/watch?v=SjSHVDfXHQ4)
